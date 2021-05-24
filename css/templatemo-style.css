@@ -264,10 +264,10 @@ header {
   transition: transform 0.1s, width 0.6s;
 }
 .sidebar-navigation nav a:focus {
-  color: burlywood;
+  color: #45489a;
 }
 .sidebar-navigation nav a:hover, nav .active-section {
-  color: burlywood;
+  color: #45489a;
 }
 .sidebar-navigation nav a:hover span, nav .active-section span{
   background-color: #000;
@@ -276,7 +276,7 @@ header {
   width: 30px;
 }
 .sidebar-navigation nav .active-section .circle{
-  background-color: burlywood;
+  background-color: #45489a;
 }
 
 .sidebar-navigation .social-icons {
@@ -305,7 +305,7 @@ header {
 }
 
 .sidebar-navigation .social-icons li a:hover {
-  color: #f9f9fa;
+  color: #45489a;
 }
 
 .sidebar-navigation .copyright {
